@@ -58,6 +58,12 @@ define("ESTANCIA_SALUD_TIEMPO","2011, Alcaniz - Spain");
 define("ESTANCIA_SALUD_TRABAJANDO",'INSALUD (Aragon medical service).<br> Repairing computers for workers.');
 
 
+define("ESTANCIA_CLUBTRAVEL","<a href='http://corporate.clubtravel.ie/corporate-travel-agent-dublin' target='_blank'>Club Travel Ireland</a>, Software Developer");
+define("ESTANCIA_CLUBTRAVEL_TIEMPO","Dec 2014 - Actually, Dublin - Ireland");
+define("ESTANCIA_CLUBTRAVEL_TRABAJANDO",'Club Travel HRG is the largest and most experienced Business Travel Company in Ireland. <br>We specialise in providing a personalised Business Travel Service to our Corporate Clients.<br><br>Develop with C#');
+
+
+
 define("IMGLOVELY_DESCRIPCION","Final project of DAW (web development) course, Developed on HTM5+CSS3+JavaScript+PHP.<br>Using Bootstrap framework to the style and JQuery to facilitate Javascript <br> The application consist in an image uploader to put images on forums, html pages, share on Facebook/Twitter, etc.<br> Also allows users, comment, vote and valorate Images. <br> Create galeries and indexed on your own web page is other function of this app. <br>You can access to this web application here: <a href='http://www.imglovely.com' target='_blank'>Imglovely</a>");
 define("IMGLOVELY_PRESENTACION","You can find the presentation here: <a href='http://prezi.com/_xh6ss4zvk2w/?utm_campaign=share&utm_medium=copy&rc=ex0share' target='_blank' >imglovely on prezzi</a>");
 

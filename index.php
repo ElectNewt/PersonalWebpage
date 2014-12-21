@@ -105,7 +105,8 @@ $_COOKIE["idioma"]="es";
 						<a data-toggle="tooltip" data-placement="bottom" title="Mail" class="btnTol"  href="mailto:ivan.abad92@gmail.com"> <span class="fa fa-envelope-square fa-5x correo"></span></a>
 						<a data-toggle="tooltip" data-placement="bottom" title="Twitter" class="btnTol" href="https://twitter.com/ivanxo92" target="_blank"> <span class="fa fa-twitter-square fa-5x twitter"></span></a>
 						<a data-toggle="tooltip" data-placement="bottom" title="curriculum vitae" class="btnTol" href="assets/otros/IVAN_ABAD_RESUME.pdf" target="_blank"> <span class="fa fa-file-pdf-o fa-4x curriculum"></span></a>
-						
+						<a data-toggle="tooltip" data-placement="bottom" title="gitHub" class="btnTol" href="https://github.com/ElectNewt" target="_blank"> <span class="fa fa-github fa-5x gitHub"></span></a>
+
 					</div>
 					
 				</div>
@@ -126,6 +127,16 @@ $_COOKIE["idioma"]="es";
 		</div>
 		<div id="p-experiencia" class="page">
 			<h1><?php echo EXPERIENCIA ?></h1>
+			<br><br>
+			<div class="row"> <!-- EStancia en simply -->
+				<div class="col-md-12">
+					<h2><?php echo ESTANCIA_CLUBTRAVEL ?></h2>
+					<h3><?php echo ESTANCIA_CLUBTRAVEL_TIEMPO ?></h3>
+					<p class="text-justify"><?php echo ESTANCIA_CLUBTRAVEL_TRABAJANDO ?></p>
+				</div>	
+			
+			</div>
+
 			<br><br>
 			<div class="row"> <!-- EStancia en simply -->
 				<div class="col-md-12">

@@ -40,11 +40,11 @@ define("CURSADO_DES_MEDIO",'Grado medio cursado en Alcañiz. <br> en el que estu
 
 
 define("ESTANCIA_SIMPLY","<a href='http://www.simply.es' target='_blank'>Simply supermercados españa</a>, Desarrollador web");
-define("ESTANCIA_SIMPLY_TIEMPO","2014, Zaragoza - España");
+define("ESTANCIA_SIMPLY_TIEMPO","Ene 2014 - Jun 2014, Zaragoza - España");
 define("ESTANCIA_SIMPLY_TRABAJANDO",'Simply es una filial del Grupo Auchan en España que cuenta en la actualidad con 230 supermercados e hipermercados.<br><br>Desarrollador web en la empresa Simply supermercados. <br> Realizando un estudio de "valence" y realizando aplicaciones para este portal en ExtJS, utilizando sencha architect.<br> Además realizadas aplicaciones en PHP internas de la empresa, trabajo en equipo y uso de la metodología Scrum');
 
 define("ESTANCIA_MONEYMATE","<a href='http://www.moneymate.com' target='_blank'>MoneyMate Ltd</a>, Desarrollador software");
-define("ESTANCIA_MONEYMATE_TIEMPO","2013, Dublín - Irlanda");
+define("ESTANCIA_MONEYMATE_TIEMPO","2013 Becario, Dublín - Irlanda");
 define("ESTANCIA_MONEYMATE_TRABAJANDO",'MoneyMate es un proveedor de servicios de datos de activos globales.<br><br> Creando y desarrollando test unitarios, el desarrollo y la ejecución de los test es en C# y uso además se utilizo "selenium" <br> uso de la metodología scrum  ');
 
 define("ESTANCIA_SEMILY","RS Semily R.S.O. Técnico de sistemas");
@@ -55,6 +55,10 @@ define("ESTANCIA_SALUD","Servicio Aragonés de Salud, Técnico de sistemas");
 define("ESTANCIA_SALUD_TIEMPO","Junio 2011 - Julio 2011, Alcañiz - España");
 define("ESTANCIA_SALUD_TRABAJANDO",'Servicio Aragonés de Salud (INSALUD)<br>Reparando equipos y solventando los fallos de los trabajadores.');
 
+
+define("ESTANCIA_CLUBTRAVEL","<a href='http://corporate.clubtravel.ie/corporate-travel-agent-dublin' target='_blank'>Club Travel Irlanda</a>, Desarrollador software");
+define("ESTANCIA_CLUBTRAVEL_TIEMPO","Dic 2014 - Actualmente, Dublín - Irlanda");
+define("ESTANCIA_CLUBTRAVEL_TRABAJANDO",'Club Travel HRG es la mayor y más experimentada Empresa de viajes de Irlanda.<br> Nosotros estamos especializados en ofrecer un negocio de viajes a nuestros clientes coorporativos.<br><br> Desarrollo en C#');
 
 
 

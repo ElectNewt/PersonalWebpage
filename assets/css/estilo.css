@@ -167,7 +167,17 @@ text-decoration:none;
 	margin-right:10px;
 }
 .curriculum{
+	color:#771595 ;
 		margin-left: 10px;
 		margin-right:10px;
-		color:#771595 ;
+		
+}
+.gitHub{
+	color:#4183c4 ;
+	
+	margin-left: 10px;
+	margin-right:10px;
+}
+.gitHub:hover{
+	color: #000000;
 }
