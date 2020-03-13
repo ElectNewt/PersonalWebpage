@@ -102,7 +102,7 @@ $_COOKIE["idioma"]="es";
 					<div class="text-center">
 						
 						<a data-toggle="tooltip" data-placement="bottom" title="LinkedIn" class="btnTol" target="_blank" href="https://www.linkedin.com/pub/ivan-abad-andreu/56/612/2b2"><span class="fa fa-linkedin-square fa-5x linkedIn"></span></a>
-						<a data-toggle="tooltip" data-placement="bottom" title="Mail" class="btnTol"  href="mailto:ivan.abad92@gmail.com"> <span class="fa fa-envelope-square fa-5x correo"></span></a>
+						<a data-toggle="tooltip" data-placement="bottom" title="Mail" class="btnTol"  href="mailto:email.mail@gmail.com"> <span class="fa fa-envelope-square fa-5x correo"></span></a>
 						<a data-toggle="tooltip" data-placement="bottom" title="Twitter" class="btnTol" href="https://twitter.com/ivanxo92" target="_blank"> <span class="fa fa-twitter-square fa-5x twitter"></span></a>
 						<a data-toggle="tooltip" data-placement="bottom" title="curriculum vitae" class="btnTol" href="assets/otros/IVAN_ABAD_RESUME.pdf" target="_blank"> <span class="fa fa-file-pdf-o fa-4x curriculum"></span></a>
 						<a data-toggle="tooltip" data-placement="bottom" title="gitHub" class="btnTol" href="https://github.com/ElectNewt" target="_blank"> <span class="fa fa-github fa-5x gitHub"></span></a>
@@ -114,7 +114,7 @@ $_COOKIE["idioma"]="es";
 					<img src="assets/img/fotoCV.png" style="max-height: 300px;"/>
 					<div class="panel panel-default">
 					  <div class="panel-body text-left">
-					    <span class="fa fa-envelope fa-lg separacionLista"> ivan.abad92@gmail.com </span> <br>
+					    <span class="fa fa-envelope fa-lg separacionLista"> email.mail@gmail.com </span> <br>
 					    <span class="fa fa-linkedin-square fa-lg separacionLista"> <a target="_blank" href="https://www.linkedin.com/pub/ivan-abad-andreu/56/612/2b2"> Ivan Abad</a></span><br>
 					    <span class="fa fa-skype fa-lg separacionLista"> ivanxo92</span><br>
 					    <span class="fa fa-link fa-lg separacionLista"> <a href="http://ivanabad.com">Ivanabad.com</a></span><br>
